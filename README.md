@@ -486,9 +486,11 @@ public class BasicCalculator extends AppCompatActivity {
 
 ## OUTPUT
 
-<img width="1907" height="1014" alt="Screenshot 2026-11-24 101154" src="https://github.com/user-attachments/assets/5ffd9b8a-efe5-4154-9189-39c0181b8398" />
+<img width="1907" height="1011" alt="image" src="https://github.com/user-attachments/assets/c60aa8ea-67da-44f8-93c4-673baa690622" />
 
-<img width="1907" height="1012" alt="Screenshot 2026-11-24 101230" src="https://github.com/user-attachments/assets/4bb24003-bfb9-4963-aec9-a752804af88e" />
+<img width="1903" height="1011" alt="image" src="https://github.com/user-attachments/assets/68b3d552-bc22-4bba-b03f-b0f557c98075" />
+
+
 
 ## Result
 
